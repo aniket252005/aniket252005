@@ -4,13 +4,31 @@
 📍 Mumbai, India  
 💻 Aspiring **Data Scientist** passionate about turning data into insights.
 
-## 🚀 Skills
+## 🛠 Skills
+
+### Programming
 - Python
 - SQL
-- Machine Learning
-- Data Analysis
-- Data Science
+
+### Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+
+### Machine Learning
+- Scikit-learn
+- Linear Regression
+- Model Evaluation
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Tools
+- Jupyter Notebook
 - Git & GitHub
+
 
 ## 📂 Projects
 
