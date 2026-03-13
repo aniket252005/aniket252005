@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student  
 📍 Mumbai, India  
-💻 Interested in Machine Learning, Data Science
+💻 Aspiring **Data Scientist** passionate about turning data into insights.
 
 ## 🚀 Skills
 - Python
