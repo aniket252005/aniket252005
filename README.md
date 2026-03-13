@@ -50,9 +50,9 @@ Analyzed Netflix dataset to understand content trends such as genres, release ye
 Performed SQL queries to analyze sales data including revenue trends, product performance, and customer insights.
 
 **Technologies Used**
-- SQL
-- Data Analysis
-- Database Queries
+- Python
+- Pandas
+- Scikit-learn
 
 🔗 [View Project](https://github.com/aniket252005/sales-sql-analysis)
 
