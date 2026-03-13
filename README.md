@@ -56,6 +56,13 @@ Performed SQL queries to analyze sales data including revenue trends, product pe
 
 🔗 [View Project](https://github.com/aniket252005/sales-sql-analysis)
 
+🏠 House Price Prediction
+
+Built a Machine Learning model using Linear Regression to predict house prices based on property features.
+
+Tech: Python, Pandas, Scikit-learn
+🔗 https://github.com/aniket252005/house-price-prediction
+
 
 ## 📊 GitHub Stats
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket252005&show_icons=true&theme=tokyonight)
