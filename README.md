@@ -60,7 +60,11 @@ Performed SQL queries to analyze sales data including revenue trends, product pe
 
 Built a Machine Learning model using Linear Regression to predict house prices based on property features.
 
-Tech: Python, Pandas, Scikit-learn
+**Technologies Used**
+-Python
+-Pandas 
+-Scikit-learn
+
 🔗 [View Project](https://github.com/aniket252005/house-price-prediction)
 
 
