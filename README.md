@@ -71,4 +71,4 @@ Built a Machine Learning model using Linear Regression to predict house prices b
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniketpandey2510/)
-- 🔗 [Email](aniket.spandey25@gmail.com)
+- 📧 Email: [aniket.s.pandey25@gmail.com](mailto:aniket.s.pandey25@gmail.com)
