@@ -15,8 +15,11 @@
 - NumPy
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Data Visualization 
+- Data Visualization (Matplotlib, Seaborn)
 
+### Data Visualization & BI
+- Power BI
+  
 ### Machine Learning
 - Regression
 - Classification
