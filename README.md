@@ -15,15 +15,18 @@
 - NumPy
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Data Visualization 
 
 ### Machine Learning
-- Scikit-learn
-- Linear Regression
+- Regression
+- Classification
+- Clustering
 - Model Evaluation
 
-### Data Visualization
-- Matplotlib
-- Seaborn
+### Deep Learning
+- Neural Network
+- PyTorch
+- Convolutional Neural Network
 
 ### Tools
 - Jupyter Notebook
