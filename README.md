@@ -73,7 +73,13 @@ Built a Machine Learning model using Linear Regression to predict house prices b
 
 
 ## 📊 GitHub Stats
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket252005&show_icons=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket252005&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical" />
+</p>
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniketpandey2510/)
