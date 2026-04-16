@@ -38,17 +38,21 @@
 
 ## 📂 Projects
 
-### 🎬 Netflix Data Analysis
-Analyzed Netflix dataset to understand content trends such as genres, release years, and country distribution.
+###📊 Customer Churn Prediction & Analysis
+
+Developed an end-to-end machine learning solution to predict customer churn and identify key risk factors using an interactive dashboard and real-time API.
 
 **Technologies Used**
+
 - Python
-- Pandas
-- Data Visualization
-- Jupyter Notebook
+- Flask
+- Scikit-learn
+- XGBoost
+- Pandas & NumPy
+- SHAP (Model Explainability)
+- HTML, CSS, JavaScript
 
-🔗 [View Project](https://github.com/aniket252005/netflix-data-analysis)
-
+🔗 [View Project](https://github.com/aniket252005/customer-churn-prediction)
 
 ### 📊 Sales SQL Analysis
 Performed SQL queries to analyze sales data including revenue trends, product performance, and customer insights.
