@@ -74,7 +74,7 @@ Built a Machine Learning model using Linear Regression to predict house prices b
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical" />
 </p>
 
