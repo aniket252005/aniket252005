@@ -38,7 +38,7 @@
 
 ## 📂 Projects
 
-###📊 Customer Churn Prediction & Analysis
+### 📊 Customer Churn Prediction & Analysis
 
 Developed an end-to-end machine learning solution to predict customer churn and identify key risk factors using an interactive dashboard and real-time API.
 
