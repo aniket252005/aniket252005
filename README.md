@@ -54,26 +54,7 @@ Developed an end-to-end machine learning solution to predict customer churn and 
 
 🔗 [View Project](https://github.com/aniket252005/customer-churn-prediction)
 
-### 📊 Sales SQL Analysis
-Performed SQL queries to analyze sales data including revenue trends, product performance, and customer insights.
 
-**Technologies Used**
-- Python
-- Pandas
-- Scikit-learn
-
-🔗 [View Project](https://github.com/aniket252005/sales-sql-analysis)
-
-### 🏠 House Price Prediction
-
-Built a Machine Learning model using Linear Regression to predict house prices based on property features.
-
-**Technologies Used**
--Python
--Pandas 
--Scikit-learn
-
-🔗 [View Project](https://github.com/aniket252005/house-price-prediction)
 
 
 ## 📊 GitHub Stats
