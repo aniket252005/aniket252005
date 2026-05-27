@@ -65,5 +65,5 @@ Developed an end-to-end machine learning solution to predict customer churn and 
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniketpandey2510/)
-- 🌐 [Portfolio](https://aniketpandey.netlify.app/)
+- 🌐 [Portfolio](https://aniket-portfolio-puce.vercel.app/)
 - 📧 Email: [aniket.s.pandey25@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aniket.s.pandey25@gmail.com)
