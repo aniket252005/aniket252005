@@ -1,61 +1,50 @@
 # Hi, I'm Aniket 👋
 
-🎓 Computer Engineering Student  
-📍 Mumbai, India  
-💻 Aspiring **Data Scientist** passionate about turning data into insights.
+> Data Scientist & ML Engineer — I build ML systems and deploy them to production.
 
-## 🛠 Skills
+🎓 Final-year B.Tech CS (Data Science), RAIT, Navi Mumbai
+📍 Mumbai, India &nbsp;|&nbsp; 📬 aniket.s.pandey25@gmail.com
 
-### Programming
-- Python
-- SQL
+---
 
-### Data Analysis
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn)
+## 🚀 What I've Built
 
-### Data Visualization & BI
-- Power BI
-  
-### Machine Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
+| Project | Stack | Key Metric | Live |
+|---|---|---|---|
+| [PneumoScan AI](https://github.com/aniket252005/pneumoscan-ai) | PyTorch, EfficientNet-B4, Grad-CAM, Streamlit | AUC 0.9622 · F1 91.1% | [🔗 Hugging Face](https://huggingface.co/spaces/aniket252005/pneumoscan-ai) |
+| [Customer Churn Prediction](https://github.com/aniket252005/customer-churn-prediction) | XGBoost, Flask, SHAP, Power BI | 0.84 AUC-ROC · <13ms latency | [🔗 Live API](https://web-production-c6a31.up.railway.app/) |
+| [Walmart Sales Forecasting](https://github.com/aniket252005/walmart-sales-forecasting-inventory-optimizer) | XGBoost, Prophet, ARIMA, Streamlit | 5.9% MAPE · 400K+ records | [🔗 Streamlit](https://walmart-sales-forecasting-inventory-optimizer-qqbappbgcf2cst5j.streamlit.app/) |
 
-### Deep Learning
-- Neural Network
-- PyTorch
-- Convolutional Neural Network
+---
 
-### Tools
-- Jupyter Notebook
-- Git & GitHub
+## 🛠 Tech Stack
 
+**Languages** &nbsp; `Python` `SQL`
 
-## 📂 Projects
+**ML / AI** &nbsp; `Scikit-learn` `XGBoost` `Regression` `Classification` `Clustering`
 
-### 📊 Customer Churn Prediction & Analysis
+**Deep Learning** &nbsp; `PyTorch` `CNN` `Transfer Learning` 
 
-Developed an end-to-end machine learning solution to predict customer churn and identify key risk factors using an interactive dashboard and real-time API.
+**Data** &nbsp; `Pandas` `NumPy` `EDA` `Feature Engineering` `Data Cleaning`
 
-**Technologies Used**
+**Visualisation** &nbsp; `Power BI` `Matplotlib` `Seaborn` `Streamlit`
 
-- Python
-- Flask
-- Scikit-learn
-- XGBoost
-- Pandas & NumPy
-- SHAP (Model Explainability)
-- HTML, CSS, JavaScript
+**Deployment** &nbsp; `Flask` `REST API` `Render` `Hugging Face Spaces` `Streamlit Cloud`
 
-🔗 [View Project](https://github.com/aniket252005/customer-churn-prediction)
+**Tools** &nbsp; `Jupyter Notebook` `Git & GitHub` `VS Code`
 
+---
 
+## 📜 Certifications
 
+- 🏅 IBM Data Science Professional Certificate — IBM / Coursera
+- 🏅 Machine Learning Specialization — DeepLearning.AI / Coursera
+- 🏅 Introduction to Neural Networks with PyTorch — IBM / Coursera
+- 🏅 Convolutional Neural Networks (CNN) — DeepLearning.AI / Coursera
+- 🏅 CS50P: Introduction to Programming with Python — Harvard / edX
+- 🏅 Power BI for Beginners — Simplilearn
+
+---
 
 ## 📊 GitHub Stats
 
@@ -63,7 +52,10 @@ Developed an end-to-end machine learning solution to predict customer churn and 
   <img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical" />
 </p>
 
-## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aniketpandey2510/)
-- 🌐 [Portfolio](https://aniket-portfolio-puce.vercel.app/)
-- 📧 Email: [aniket.s.pandey25@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aniket.s.pandey25@gmail.com)
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aniketpandey2510-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniketpandey2510/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat&logo=vercel)](https://aniket-portfolio-puce.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-aniket.s.pandey25@gmail.com-EA4335?style=flat&logo=gmail)](mailto:aniket.s.pandey25@gmail.com)
