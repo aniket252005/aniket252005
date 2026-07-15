@@ -132,6 +132,6 @@ Benchmarked 5 models on 400K+ records. Automated EOQ, safety stock & reorder ale
 
 <img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniket252005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aniket252005&show_icons=true&theme=radical&hide_border=true" />
 
 </div>
