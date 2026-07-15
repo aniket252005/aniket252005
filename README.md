@@ -1,19 +1,97 @@
-# Hi, I'm Aniket 👋
+<div align="center">
 
-> Data Scientist & ML Engineer — I build ML systems and deploy them to production.
+# Aniket Pandey
 
-🎓 Final-year B.Tech CS (Data Science), RAIT, Navi Mumbai
-📍 Mumbai, India &nbsp;|&nbsp; 📬 aniket.s.pandey25@gmail.com
+### Data Scientist & ML Engineer
+
+*Building ML systems that are deployed, explainable, and production-ready.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketpandey2510/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://aniket-portfolio-puce.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniket.s.pandey25@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aniket252005)
+
+🎓 Final-year B.Tech CS (Data Science) · RAIT, Navi Mumbai &nbsp;|&nbsp; 📍 Mumbai, India
+
+</div>
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Deployed Projects
 
-| Project | Stack | Key Metric | Live |
-|---|---|---|---|
-| [PneumoScan AI](https://github.com/aniket252005/pneumoscan-ai) | PyTorch, EfficientNet-B4, Grad-CAM, Streamlit | AUC 0.9622 · F1 91.1% | [🔗 Hugging Face](https://huggingface.co/spaces/aniket252005/pneumoscan-ai) |
-| [Customer Churn Prediction](https://github.com/aniket252005/customer-churn-prediction) | XGBoost, Flask, SHAP, Power BI | 0.84 AUC-ROC · <13ms latency | [🔗 Live API](https://web-production-c6a31.up.railway.app/) |
-| [Walmart Sales Forecasting](https://github.com/aniket252005/walmart-sales-forecasting-inventory-optimizer) | XGBoost, Prophet, ARIMA, Streamlit | 5.9% MAPE · 400K+ records | [🔗 Streamlit](https://walmart-sales-forecasting-inventory-optimizer-qqbappbgcf2cst5j.streamlit.app/) |
+<table>
+<tr>
+<td width="50%">
+
+### 🫁 PneumoScan AI
+**Chest X-ray Pneumonia Detection**
+
+![AUC](https://img.shields.io/badge/AUC-0.9622-success?style=flat-square)
+![F1](https://img.shields.io/badge/F1_Score-91.1%25-success?style=flat-square)
+![FNR](https://img.shields.io/badge/False_Negative_Rate-7%25-blue?style=flat-square)
+
+Fine-tuned EfficientNet-B4 on 5,856 chest X-rays with Grad-CAM explainability. Reduced false negatives from 22% → 7% using Focal Loss + WeightedRandomSampler.
+
+`PyTorch` `EfficientNet-B4` `Grad-CAM` `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/aniket252005/pneumoscan-ai)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aniket252005/pneumoscan-ai)
+
+</td>
+<td width="50%">
+
+### 📉 Customer Churn Prediction
+**End-to-End ML API · Live on Render**
+
+![AUC](https://img.shields.io/badge/AUC--ROC-0.84-success?style=flat-square)
+![Recall](https://img.shields.io/badge/Recall-78%25-success?style=flat-square)
+![Latency](https://img.shields.io/badge/Latency-<13ms-blue?style=flat-square)
+
+XGBoost pipeline with SMOTE, SHAP explainability, and Flask REST API supporting real-time and batch inference.
+
+`XGBoost` `Flask` `SHAP` `Power BI` `SMOTE`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Render-46E3B7?style=for-the-badge)](https://web-production-c6a31.up.railway.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aniket252005/customer-churn-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Walmart Sales Forecasting
+**Demand Forecasting & Inventory Optimizer**
+
+![MAPE](https://img.shields.io/badge/MAPE-5.9%25-success?style=flat-square)
+![Baseline](https://img.shields.io/badge/Naive_Baseline-28.4%25-red?style=flat-square)
+![Records](https://img.shields.io/badge/Records-400K+-blue?style=flat-square)
+
+Benchmarked 5 models on 400K+ records. Automated EOQ, safety stock & reorder alerts. Self-service Streamlit dashboard.
+
+`XGBoost` `Prophet` `ARIMA` `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Streamlit-FF4B4B?style=for-the-badge)](https://walmart-sales-forecasting-inventory-optimizer-qqbappbgcf2cst5j.streamlit.app/)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aniket252005/walmart-sales-forecasting-inventory-optimizer)
+
+</td>
+<td width="50%">
+
+### 📊 Numbers That Matter
+
+<br/>
+
+| Metric | Value |
+|---|---|
+| 🏥 Medical AI AUC | **0.9622** |
+| 📉 Churn AUC-ROC | **0.84** |
+| 🛒 Forecast MAPE | **5.9%** |
+| 📦 Records Processed | **400K+** |
+| 🏅 Certifications | **6** |
+| 🚀 Live Deployments | **3** |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -23,7 +101,7 @@
 
 **ML / AI** &nbsp; `Scikit-learn` `XGBoost` `Regression` `Classification` `Clustering`
 
-**Deep Learning** &nbsp; `PyTorch` `CNN` `Transfer Learning` 
+**Deep Learning** &nbsp; `PyTorch` `CNN` `Transfer Learning`
 
 **Data** &nbsp; `Pandas` `NumPy` `EDA` `Feature Engineering` `Data Cleaning`
 
@@ -37,25 +115,23 @@
 
 ## 📜 Certifications
 
-- 🏅 IBM Data Science Professional Certificate — IBM / Coursera
-- 🏅 Machine Learning Specialization — DeepLearning.AI / Coursera
-- 🏅 Introduction to Neural Networks with PyTorch — IBM / Coursera
-- 🏅 Convolutional Neural Networks (CNN) — DeepLearning.AI / Coursera
-- 🏅 CS50P: Introduction to Programming with Python — Harvard / edX
-- 🏅 Power BI for Beginners — Simplilearn
+| Certificate | Issuer |
+|---|---|
+| 🏅 IBM Data Science Professional Certificate | IBM / Coursera |
+| 🏅 Machine Learning Specialization | DeepLearning.AI / Coursera |
+| 🏅 Introduction to Neural Networks with PyTorch | IBM / Coursera |
+| 🏅 Convolutional Neural Networks (CNN) | DeepLearning.AI / Coursera |
+| 🏅 CS50P: Introduction to Programming with Python | Harvard / edX |
+| 🏅 Power BI for Beginners | Simplilearn |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical" />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com/?user=aniket252005&theme=radical&hide_border=true" />
 
-## 📫 Connect
+<img src="https://github-readme-stats.vercel.app/api?username=aniket252005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aniketpandey2510-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniketpandey2510/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat&logo=vercel)](https://aniket-portfolio-puce.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-aniket.s.pandey25@gmail.com-EA4335?style=flat&logo=gmail)](mailto:aniket.s.pandey25@gmail.com)
+</div>
