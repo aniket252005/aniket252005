@@ -51,7 +51,7 @@ XGBoost pipeline with SMOTE, SHAP explainability, and Flask REST API supporting 
 
 `XGBoost` `Flask` `SHAP` `Power BI` `SMOTE`
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Render-46E3B7?style=for-the-badge)](https://web-production-c6a31.up.railway.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Render-46E3B7?style=for-the-badge)](https://customer-churn-prediction-v55d.onrender.com/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aniket252005/customer-churn-prediction)
 
 </td>
